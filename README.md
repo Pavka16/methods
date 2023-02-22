@@ -1,4 +1,5 @@
 ## **Методы**
+[![Build status](https://ci.appveyor.com/api/projects/status/b4nwtvwdvo18vm01?svg=true)](https://ci.appveyor.com/project/Pavka16/methods)
 ---
 ### **Легенда**
 Поскольку вы создавали классы для того, чтобы хранить в одном месте свойства объекта и его поведение, то пришла пора реализовать соответствующие методы.
